@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Client.cs">
+    <Files>
+      <File FileName="Assets\Client.cs" Line="133" Column="4" />
+      <File FileName="Assets\NetworkHumanBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets\Controller\HumanController.cs" Line="50" Column="4" />
+      <File FileName="Assets\Server.cs" Line="55" Column="19" />
+      <File FileName="Assets\Controller\FireController.cs" Line="15" Column="4" />
+      <File FileName="Assets\Controller\PersonController.cs" Line="128" Column="141" />
+      <File FileName="Assets\Controller\PersonBehavior.cs" Line="39" Column="50" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonUserControl.cs" Line="37" Column="5" />
+      <File FileName="Assets\Utils\PlaceDrawer.cs" Line="30" Column="2" />
+      <File FileName="Assets\Standard Assets\Characters\ThirdPersonCharacter\Scripts\ThirdPersonCharacter.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 507a750ddf9e0f84f86ee40d1a5e8e0f
+timeCreated: 1456294540
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - blood_red: {fileID: 2800000, guid: 29645dfca7b726846887c46977e55bea, type: 3}
+  - blood_yellow: {fileID: 2800000, guid: 52cb1b5c0a8f0c845961e2137442b0a4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
